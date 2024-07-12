@@ -1,0 +1,44 @@
+/*
+	@name macbook_air___3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 832px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_macbook_air___3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+}
+
+#_bg__macbook_air___3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_4_2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+	background:url(skins/_4_2.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
